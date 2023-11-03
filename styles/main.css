@@ -1,0 +1,22 @@
+h1 {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size-adjust: none;
+    justify-self: auto;
+  }
+
+.ti.ti-brand-linkedin{
+    font-size: 30px;
+    transition: transform 0.2s; /* Añade una transición suave */
+ } 
+
+.linkedin-icon {
+    text-decoration: none; /* Quita el subrayado */
+    width: 250px; /* Ajusta el ancho según sea necesario */
+    transition: transform 0.2s; /* Añade una transición suave */
+  }
+
+.linkedin-icon:hover {
+    
+    color:blanchedalmond; 
+    transform: scale(1.1); /* Escala ligeramente el botón al pasar el cursor sobre él */
+  }
